@@ -1,0 +1,20 @@
+{
+	"manifest_version": 3,
+	"name": "Bookmarked",
+	"version": "1.0",
+	"description": "Overrides the default new tab with compact links and an organizable structure.",
+	"homepage_url": "https://github.com/stefan1575/bookmarked",
+
+	"chrome_url_overrides": {
+		"newtab": "index.html"
+	},
+
+	"icons": {
+		"16": "favicon.svg",
+		"48": "favicon.svg",
+		"96": "favicon.svg",
+		"128": "favicon.svg"
+	},
+
+	"permissions": ["tabs", "storage"]
+}

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg 
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="svg1"
+    sodipodi:docname="bookmarks_list_add.svg"
+    viewBox="0 0 60 60"
+    sodipodi:version="0.32"
+    version="1.0"
+    y="0"
+    x="0"
+    inkscape:version="0.38.1"
+    sodipodi:docbase="/home/danny/flat/scalable/actions"
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      inkscape:window-width="1016"
+      pagecolor="#ffffff"
+      inkscape:zoom="4.9119411"
+      inkscape:window-x="0"
+      borderopacity="1.0"
+      inkscape:cx="33.667126"
+      inkscape:cy="16.626390"
+      inkscape:window-y="0"
+      inkscape:window-height="685"
+      inkscape:pageopacity="0.0"
+  />
+  <rect
+      id="rect602"
+      style="stroke-linejoin:round;fill-rule:evenodd;stroke:#4c4c4c;stroke-width:2.6275;fill:#a6a6a6"
+      rx="2.0156"
+      transform="matrix(.90532 -.42472 0 1 0 0)"
+      height="36.991"
+      width="22.825"
+      sodipodi:stroke-cmyk="(0.0000000 0.0000000 0.0000000 0.69999999)"
+      y="26.878"
+      x="27.78"
+  />
+  <rect
+      id="rect603"
+      style="stroke-linejoin:round;fill-rule:evenodd;stroke:#4c4c4c;stroke-width:2.6275;fill:#bfbfbf"
+      rx="2.0156"
+      transform="matrix(-.90532 -.42472 0 1 0 0)"
+      height="36.991"
+      width="22.825"
+      sodipodi:stroke-cmyk="(0.0000000 0.0000000 0.0000000 0.69999999)"
+      y="3.2253"
+      x="-27.909"
+  />
+  <rect
+      id="rect604"
+      style="stroke-linejoin:round;fill-rule:evenodd;stroke:#4c4c4c;stroke-linecap:round;stroke-width:1.9614;fill:#7f7f7f"
+      transform="matrix(.91381 .40614 0 1 0 0)"
+      height="35.541"
+      width="6.775"
+      sodipodi:stroke-cmyk="(0.0000000 0.0000000 0.0000000 0.69999999)"
+      y="-0.547"
+      x="15.903"
+  />
+  <path
+      id="path832"
+      style="stroke-width:1pt;fill:#333333"
+      transform="scale(3.6376)"
+      d="m11.683 11.718v-1.7869c0-0.25 0.068-0.4531 0.205-0.6093 0.137-0.1602 0.332-0.2403 0.586-0.2403s0.449 0.0801 0.586 0.2403c0.14 0.1562 0.211 0.3593 0.211 0.6093v1.7869h1.763c0.258 0 0.461 0.071 0.61 0.211 0.152 0.137 0.228 0.33 0.228 0.58 0 0.254-0.076 0.451-0.228 0.592-0.149 0.141-0.352 0.211-0.61 0.211h-1.763v1.781c0 0.254-0.071 0.459-0.211 0.615-0.141 0.157-0.336 0.235-0.586 0.235s-0.446-0.078-0.586-0.235c-0.137-0.156-0.205-0.361-0.205-0.615v-1.781h-1.764c-0.25 0-0.4531-0.076-0.6093-0.229-0.1524-0.156-0.2286-0.347-0.2286-0.574 0-0.25 0.0743-0.443 0.2227-0.58 0.1523-0.14 0.3574-0.211 0.6152-0.211h1.764z"
+  />
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >ftbookmarks list add</dc:title
+        >
+        <dc:date
+          >2011-01-31T02:01:12</dc:date
+        >
+        <dc:description
+          >Originally uploaded by Danny Allen for OCAL 0.18 this icon is part of the flat theme</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/111925/ftbookmarks-list-add-by-anonymous</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >Anonymous</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >flat</rdf:li
+            >
+            <rdf:li
+              >icon</rdf:li
+            >
+            <rdf:li
+              >theme</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
