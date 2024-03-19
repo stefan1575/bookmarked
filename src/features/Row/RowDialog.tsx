@@ -105,6 +105,8 @@ export function AddRowDialog({
 }: AddRowDialogProps) {
 	const rowForm = useRowForm(formInput);
 	const selectedFile = rowForm.watch("image");
+	const favicon =
+		"https://www.google.com/s2/favicons?sz=32&domain_url=" + formInput.url;
 
 	// Manually trigger file input when value changes,
 	// if an error occurs, reset the field and retain the displayed error
@@ -188,7 +190,16 @@ export function AddRowDialog({
 						</div>
 						<div className="grid col-span-2 content-center">
 							<div className="p-4 grid justify-center">
-								<Image className="size-16 rounded" />
+								{selectedFile ? (
+									<img
+										className="size-16 rounded"
+										src={
+											selectedFile ? URL.createObjectURL(selectedFile) : favicon
+										}
+									/>
+								) : (
+									<Image className="size-16 rounded" />
+								)}
 							</div>
 							<FormField
 								control={rowForm.control}
