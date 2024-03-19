@@ -30,13 +30,13 @@ function Column({ id, title }: ColumnProps) {
 	if (isDragging) {
 		return (
 			<div
-				className="grid auto-cols-[12rem] auto-rows-min gap-2 opacity-30"
+				className="grid grid-cols-[12rem] auto-rows-min gap-2 opacity-30"
 				ref={setNodeRef}
 				style={style}
 			>
 				<div className="grid relative">
 					<Button
-						className="hover:cursor-move active:cursor-move"
+						className="overflow-hidden hover:cursor-move active:cursor-move"
 						{...attributes}
 						{...listeners}
 					>
@@ -60,11 +60,11 @@ function Column({ id, title }: ColumnProps) {
 		>
 			<div className="grid relative">
 				<Button
-					className="hover:cursor-move active:cursor-move"
+					className="overflow-hidden hover:cursor-move active:cursor-move"
 					{...attributes}
 					{...listeners}
 				>
-					<div className="overflow-hidden text-ellipsis font-semibold">
+					<div className="overflow-hidden text-ellipsis font-semibold mx-2">
 						{title}
 					</div>
 				</Button>

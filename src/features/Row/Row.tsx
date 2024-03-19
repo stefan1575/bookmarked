@@ -59,14 +59,14 @@ function Row({ id, name, url, image }: RowProps) {
 				{...attributes}
 				{...listeners}
 				style={style}
-				className="shadow shadow-gray"
+				className="shadow shadow-gray block overflow-hidden"
 				asChild
 			>
 				<a href={url}>
 					<div className="flex mr-auto items-center">
-						<img src={displayedImage} className="size-4 mr-4" />
-						<div>
-							<div className="overflow-hidden text-ellipsis font-semibold">
+						<img src={displayedImage} className="size-4 mr-3.5" />
+						<div className="overflow-hidden">
+							<div className="overflow-hidden text-ellipsis font-semibold mr-2">
 								{name}
 							</div>
 						</div>
