@@ -3,7 +3,6 @@ import {
 	DropdownMenuTrigger,
 	DropdownMenuContent,
 	DropdownMenuItem,
-	DropdownMenuSeparator,
 } from "@/components/ui/dropdown-menu";
 import { useState } from "react";
 import { RowProps } from "@/store/useBoundStore";
@@ -60,10 +59,6 @@ function RowDropdownMenu({ row }: RowDropdownMenuProps) {
 					<DropdownMenuItem onClick={() => setIsEditRowDialog(true)}>
 						Edit
 					</DropdownMenuItem>
-					<DropdownMenuSeparator />
-					<DropdownMenuItem>Open in New Tab</DropdownMenuItem>
-					<DropdownMenuItem>Open in New Window</DropdownMenuItem>
-					<DropdownMenuSeparator />
 					<DropdownMenuItem onClick={() => setIsDeleteRowDialog(true)}>
 						Delete
 					</DropdownMenuItem>
