@@ -4,8 +4,8 @@ import { CSS } from "@dnd-kit/utilities";
 import { RowProps } from "@/store/useBoundStore";
 import RowDropdownMenu from "@/features/Row/RowDropdownMenu";
 
-function Row({ id, name, url, image }: RowProps) {
-	const row = { id, name, url, image };
+function Row({ id, name, url, image, columnId }: RowProps) {
+	const row = { id, name, url, image, columnId };
 	const displayedImage = image
 		? URL.createObjectURL(image)
 		: "https://www.google.com/s2/favicons?sz=32&domain_url=" + url;

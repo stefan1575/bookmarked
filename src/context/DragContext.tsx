@@ -81,9 +81,6 @@ function DragContext({ children }: DragContextProps) {
 					}
 
 					if (activeColumn && overRow) {
-						console.log("----");
-
-						console.log(over.data);
 						dragColumn({
 							activeId: active.id,
 							overId: over.data.current?.row.columnId,
